@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+  font-family: sans-serif;
+  background-image: linear-gradient(120deg,blue, blue);
+  min-height: 100vh;
+}
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.row {
+  display: block;
+  width: 50%;
+  margin: 0 auto;
+  padding: 20px;
+  box-sizing: border-box;
+}
+.con {
+  display: block;
+  width: 50%;
+  margin: 0 auto;
+  padding: 20px;
+  box-sizing: border-box;
+}
+h1{
+  font-size: 45px;
+  font-weight: 600;
+  
+} 
